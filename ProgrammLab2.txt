@@ -1,4 +1,5 @@
 Test safas
+<<<<<<< HEAD
 NewData
 VimData
 DataForDel
@@ -15,3 +16,5 @@ asfas
 asfasf-asf
 fasg22Tesr
 Testss
+=======
+>>>>>>> b31017dcd9095d5b68105e86bcbc40bd615a1e1d
