@@ -1,12 +1,1 @@
 Test safas
-NewData
-VimData
-DataForDel
-newBranchChanges
-SomeChangesSomeChanges
-MainChanges
-SideChanges
-aslkeg;gs;kjg;sdlkg;dslk
-dsgksdl;
-NewBranchForLabChanges
-MoreChanges
