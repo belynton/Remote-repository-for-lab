@@ -4,12 +4,9 @@ VimData
 DataForDel
 newBranchChanges
 SomeChangesSomeChanges
-<<<<<<< HEAD
 MainChanges
 SideChanges
 aslkeg;gs;kjg;sdlkg;dslk
 dsgksdl;
-=======
 NewBranchForLabChanges
 MoreChanges
->>>>>>> NewBranchForLab
